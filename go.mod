@@ -1,4 +1,4 @@
-module csenet/rps
+module github.com/csenet/rps
 
 go 1.18
 

@@ -8,8 +8,8 @@ import (
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/reflection"
 
-	"github.com/cetnet/rps/service"
 	"github.com/csenet/rps/pb"
+	"github.com/csenet/rps/service"
 )
 
 func main() {
